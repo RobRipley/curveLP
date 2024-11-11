@@ -7,3 +7,6 @@ output_directory = "dist"
 
 [site]
 bucket = "./dist"
+
+[build.environment]
+NODE_VERSION = "18"
